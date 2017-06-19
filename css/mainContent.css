@@ -7,3 +7,9 @@
     float: left;
     width: 180px;
 }
+.floatLeft {
+  float: left;
+}
+#bottomPadding {
+  margin-bottom: 200px;
+}
