@@ -1,5 +1,9 @@
 table, td {
     border-collapse: collapse;
-    color: white;
-    text-decoration: none;
+    
+}
+
+td  a {
+color: white;
+text-decoration: none;
 }
