@@ -32,3 +32,16 @@
   margin-left: 10px;
   font-family: cursive;
 }
+.news-article{
+  margin-top: 90px;
+}
+.news-article p {
+  margin-top: 50px;
+  text-indent: 22px;
+}
+.news-article h3{
+  text-decoration: underline;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif
+}
