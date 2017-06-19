@@ -1,0 +1,20 @@
+#jokes-container {
+  display: block;
+  width: 100%;
+  position:relative;
+}
+#jokesHead {
+  font-size: 39px;
+  text-align: center;
+  text-decoration: 2px dashed black;
+  font-family: cursive;
+
+}
+#jokesContent .alignLeft {
+  text-align: left;
+  margin-left: 30px;
+}
+#jokesContent .alignRight {
+  text-align: right;
+  margin-right: 30px;
+}
