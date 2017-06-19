@@ -2,19 +2,38 @@
     width: 780px;
     float: left;
     margin-left: 30px;
+    margin-top: 15px;
 }
+
 #news {
     margin-left: 180px;
     float: left;
     width: 250px;
+    margin-top: 75px;
 }
 .floatLeft {
   float: left;
   margin-right: 20px;
 }
+.floatRight {
+  float: right;
+}
 #bottomPadding {
   margin-bottom: 200px;
-  text-indent: 50px;
+}
+#specialP {
+  text-indent: 20px;
+}
+
+.block {
+  display: block;
+  margin-top: 75px;
+  text-indent: 30px;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#marginBottom {
+  margin-bottom: 50px;
 }
  .pMargin {
   margin-top: 150px;
@@ -22,15 +41,24 @@
   margin-right: 15px;
 }
 #title1 {
-  font-size: 30px;
+  font-size: 50px;
   font-family: cursive;
-  text-align: center;
+  text-align: left;
+  margin-left: 120px;
+
 }
 #title2{
   text-align: left;
-  font-size: 30px;
-  margin-left: 10px;
+  font-size: 35px;
+  margin-left: 20px;
   font-family: cursive;
+}
+#title3 {
+  font-size:48px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: right;
+  margin-right: 60px;
+  margin-top: 140px;
 }
 .news-article{
   margin-top: 90px;
