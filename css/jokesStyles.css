@@ -2,19 +2,41 @@
   display: block;
   width: 100%;
   position:relative;
-}
-#jokesHead {
-  font-size: 39px;
-  text-align: center;
-  text-decoration: 2px dashed black;
-  font-family: cursive;
+  float:right;
+  margin-top: 0px;
+  padding-bottom: 50px;
+  background: url(/home/mnixon/Sites/birthdayPage/images/coolWeedBackground.jpg)no-repeat;
+  background-size: cover;
+
 
 }
-#jokesContent .alignLeft {
-  text-align: left;
-  margin-left: 30px;
+#jokesHead h1{
+  font-size:43px;
+  text-align: center;
+  font-family: cursive;
+  display:block;
+  margin-bottom: 100px;
+  margin-top: 70px;
+  background-color:#2dad68;
+  color: white;
+  margin-left:270px;
+  margin-right:270px;
+  font-weight: bold;
+  text-decoration: underline;
+  
+
 }
-#jokesContent .alignRight {
+.alignLeft {
+  text-align: left;
+  margin-left: 135px;
+  margin-top: 30px;
+ background-color:#2dad68;
+  color: white;
+}
+.alignRight {
   text-align: right;
-  margin-right: 30px;
+  margin-right: 130px;
+  margin-top: 30px;
+ background-color:#2dad68;
+  color: white;
 }

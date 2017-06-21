@@ -1,8 +1,20 @@
+#mainContentBackground {
+    background-image: url(/home/mnixon/Sites/birthdayPage/images/fireworks3.jpg);
+    overflow: auto;
+   background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+
 #main-content {
     width: 780px;
     float: left;
     margin-left: 30px;
     margin-top: 15px;
+    color: white;
+    text-shadow: 3px 3px 0px #000;
+  
 }
 
 #news {
@@ -10,6 +22,8 @@
     float: left;
     width: 250px;
     margin-top: 75px;
+    color: black;
+    
 }
 .floatLeft {
   float: left;
@@ -23,6 +37,7 @@
 }
 #specialP {
   text-indent: 20px;
+  margin-bottom: 300px;
 }
 
 .block {
@@ -44,7 +59,8 @@
   font-size: 50px;
   font-family: cursive;
   text-align: left;
-  margin-left: 120px;
+  margin-left: 320px;
+  margin-top: 150px;
 
 }
 #title2{
@@ -53,28 +69,33 @@
   margin-left: 20px;
   margin-bottom: 30px;
   font-family: cursive;
+  margin-top: 250px;
 }
 #title3 {
   font-size:48px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   text-align: right;
   margin-right: 60px;
-  margin-top: 140px;
+  margin-top: 200px;
 }
 .news-article{
-  margin-top: 90px;
-  border: 2px solid black;
+  margin-top: 60px;
+  border: 2px solid pink;
+  background-color: #73f4f4
 }
 .news-article p {
   margin-top: 50px;
   text-indent: 22px;
   margin-left: 7px;
   margin-right: 7px;
+  margin-bottom: 75px;
+  
 }
 .news-article h3{
   font-size: 20px;
   text-decoration: underline;
   text-align: center;
   font-weight: bold;
-  font-family: 'Times New Roman', Times, serif
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 30px
 }
